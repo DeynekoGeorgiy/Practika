@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "Dima",
+  "author": "Georgiy",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
